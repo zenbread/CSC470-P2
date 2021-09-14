@@ -1,0 +1,10 @@
+C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P2\P2\bin\Debug\P2.exe.config
+C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P2\P2\bin\Debug\P2.exe
+C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P2\P2\bin\Debug\P2.pdb
+C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P2\P2\obj\Debug\P2.csproj.AssemblyReference.cache
+C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P2\P2\obj\Debug\P2.FormMain.resources
+C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P2\P2\obj\Debug\P2.Properties.Resources.resources
+C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P2\P2\obj\Debug\P2.csproj.GenerateResource.cache
+C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P2\P2\obj\Debug\P2.csproj.CoreCompileInputs.cache
+C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P2\P2\obj\Debug\P2.exe
+C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P2\P2\obj\Debug\P2.pdb
