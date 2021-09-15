@@ -8,3 +8,4 @@ C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P2\P2\obj\Debug\P2.csproj.Generat
 C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P2\P2\obj\Debug\P2.csproj.CoreCompileInputs.cache
 C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P2\P2\obj\Debug\P2.exe
 C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P2\P2\obj\Debug\P2.pdb
+C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P2\P2\obj\Debug\P2.FormSeeFish.resources
